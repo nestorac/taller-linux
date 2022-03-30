@@ -238,7 +238,73 @@ MATE Es una opción muy útil y recomendable, instala las actualizaciones
  un medio de arranque antiguo (por ejemplo, una ISO de la versión 22.04.1
  y van por la 22.04.5), tendrás muchas aplicaciones para actualizar.
  Sólo actualiza paquetes dentro de la versión de la distribución, es decir,
- versiones que corrigen
+ versiones que corrigen fallos de seguridad y de otros tipos.
+ No actualiza la distribución entera (por ejemplo, no actualiza de la 22.04
+ LTS a la 24.04 LTS), solo lo necesario para que las aplicaciones funcionen
+ correctamente y sean seguras.
+\end_layout
+
+\begin_layout Description
+Instalar
+\begin_inset space ~
+\end_inset
+
+programas
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+terceros
+\begin_inset space ~
+\end_inset
+
+para
+\begin_inset space ~
+\end_inset
+
+hardware
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+gráficos
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+wifi
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+formatos
+\begin_inset space ~
+\end_inset
+
+multimedia
+\begin_inset space ~
+\end_inset
+
+adicionales Esta opción instala aplicaciones y librerías para manejar tarjetas
+ gráficas NVIDIA, tarjetas de Wi-Fi modernas y algunos formatos de sonido,
+ imagen, vídeo, etc.
+ Conviene tenerla activada, si no somos unos puristas del software libre.
 \end_layout
 
 \begin_layout Chapter
@@ -255,8 +321,61 @@ Tipo de instalación
 
 \end_layout
 
+\begin_layout Standard
+Borrar el disco e instalar Ubuntu MATE Esta es la opción por defecto.
+ Destruye toda la información del disco duro e instala encima Ubuntu MATE.
+ Repetimos: 
+\series bold
+\emph on
+Destruye toda la información del disco duro.
+ Toda la información que tengas en el disco duro de tu ordenador, donde
+ estés instalando Ubuntu, se perderá.
+ Haz una copia de seguridad antes de instalar Ubuntu MATE de esta manera.
+ Si tienes dudas, pregunta.
+ No pulses 
+\begin_inset Quotes eld
+\end_inset
+
+Instalar ahora
+\begin_inset Quotes erd
+\end_inset
+
+ hasta que no estés seguro de no perder ninguna información valiosa.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Hay que enseñar a hacer una copia de seguridad de los documentos del ordenador
+ antes de instalar, por si acaso.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Hay que instalar Windows y probar el arranque dual
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Más opciones
+\end_layout
+
 \begin_layout Chapter
-Cambios en el disco duro
+o
 \end_layout
 
 \begin_layout Standard
