@@ -31,8 +31,8 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize default
-\use_geometry false
+\papersize a4paper
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -57,6 +57,13 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1.5cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -99,6 +106,40 @@ Seleccionar idioma e instalar
 
 \end_layout
 
+\begin_layout Standard
+A la izquierda podemos seleccionar nuestro idioma.
+\end_layout
+
+\begin_layout Standard
+A la derecha nos da dos opciones:
+\end_layout
+
+\begin_layout Description
+Probar
+\begin_inset space ~
+\end_inset
+
+Ubuntu
+\begin_inset space ~
+\end_inset
+
+MATE Nos permite arrancar desde el medio de instalación sin instalar nada,
+ sin tocar el disco duro, de forma que podemos probar Ubuntu MATE antes
+ de instalarlo.
+\end_layout
+
+\begin_layout Description
+Instalar
+\begin_inset space ~
+\end_inset
+
+Ubuntu
+\begin_inset space ~
+\end_inset
+
+MATE Arranca Ubuntu MATE y rápidamente inicia el instalador de Ubuntu MATE.
+\end_layout
+
 \begin_layout Chapter
 Disposición del teclado
 \end_layout
@@ -113,6 +154,33 @@ Disposición del teclado
 
 \end_layout
 
+\begin_layout Standard
+Hay poco que decir sobre esto, lo más habitual es elegir el teclado Spanish-Span
+ish, pero si tu ordenador tiene un teclado en otro idioma, por ejemplo,
+ AZERTY francés o USA sin eñe te puede interesar cambiarlo.
+\end_layout
+
+\begin_layout Description
+Detectar
+\begin_inset space ~
+\end_inset
+
+la
+\begin_inset space ~
+\end_inset
+
+distribución
+\begin_inset space ~
+\end_inset
+
+del
+\begin_inset space ~
+\end_inset
+
+teclado El instalador te ofrece una serie de pruebas para saber exactamente
+ qué teclado usas.
+\end_layout
+
 \begin_layout Chapter
 Actualizaciones y otro software
 \end_layout
@@ -125,6 +193,52 @@ Actualizaciones y otro software
 \end_inset
 
 
+\end_layout
+
+\begin_layout Description
+Instalación
+\begin_inset space ~
+\end_inset
+
+normal Normalmente esta es la opción adecuada, instala el modo gráfico y
+ algunas aplicaciones útiles, como LibreOffice.
+\end_layout
+
+\begin_layout Description
+Instalación
+\begin_inset space ~
+\end_inset
+
+mínima Instala solo un navegador y algunas aplicaciones ligeras.
+\end_layout
+
+\begin_layout Description
+Descargar
+\begin_inset space ~
+\end_inset
+
+actualizaciones
+\begin_inset space ~
+\end_inset
+
+al
+\begin_inset space ~
+\end_inset
+
+instalar
+\begin_inset space ~
+\end_inset
+
+Ubuntu
+\begin_inset space ~
+\end_inset
+
+MATE Es una opción muy útil y recomendable, instala las actualizaciones
+ que han ido saliendo después de la fecha del medio de arranque, si usas
+ un medio de arranque antiguo (por ejemplo, una ISO de la versión 22.04.1
+ y van por la 22.04.5), tendrás muchas aplicaciones para actualizar.
+ Sólo actualiza paquetes dentro de la versión de la distribución, es decir,
+ versiones que corrigen
 \end_layout
 
 \begin_layout Chapter
@@ -190,6 +304,48 @@ Proceso de instalación
 \begin_layout Standard
 \begin_inset Graphics
 	filename screenshots/screen008_install_process.png
+	width 95line%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Reinicio
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename screenshots/screen009_reboot.png
+	width 95line%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Quitar el medio de instalación
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename screenshots/screen010_remove_installation_medium.png
+	width 95line%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Primera sesión en Ubuntu MATE
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename screenshots/screen011_first_session.png
 	width 95line%
 
 \end_inset
