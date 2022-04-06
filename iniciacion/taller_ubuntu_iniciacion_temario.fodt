@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2022-03-24T11:49:25.269906520</meta:creation-date><dc:date>2022-03-28T13:23:14.866921046</dc:date><meta:editing-duration>PT15M49S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/7.1.7.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="62" meta:word-count="468" meta:character-count="3296" meta:non-whitespace-character-count="2892"/></office:meta>
+ <office:meta><meta:creation-date>2022-03-24T11:49:25.269906520</meta:creation-date><dc:date>2022-04-06T14:47:03.409956606</dc:date><meta:editing-duration>PT24M38S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/7.1.7.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="154" meta:word-count="1263" meta:character-count="8773" meta:non-whitespace-character-count="7693"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">4080</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">23</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22089</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">8685</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22017</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">8957</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">5870</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">8281</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11208</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">73357</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">4080</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22087</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">12764</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">23</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22015</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">8978</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">132</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">128</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
@@ -86,7 +86,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1625240</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1718996</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -140,6 +140,8 @@
  <office:font-face-decls>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
   <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Sans Mono CJK SC" svg:font-family="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -149,7 +151,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="es" fo:country="ES" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -203,6 +205,10 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
   <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
@@ -211,6 +217,12 @@
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
@@ -278,23 +290,80 @@
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="0017753d"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0018cc98" officeooo:paragraph-rsid="0018cc98"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0018cc98" officeooo:paragraph-rsid="0018cc98"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1"/>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2"/>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7"/>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8"/>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9"/>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10"/>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11"/>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L12"/>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13"/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L14"/>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L15"/>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L16"/>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L17"/>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L9">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L11">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L12">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L13">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L14">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L15">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L16">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L17">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -436,6 +505,422 @@
     <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L8">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L9">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L10">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L11">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L12">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L13">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L14">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L15">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L16">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L17">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.748cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.995cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.242cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.489cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="5.736cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="6.983cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="8.23cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="9.478cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="10.725cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="11.972cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="1cm" fo:margin-right="1cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm">
     <style:columns fo:column-count="2" fo:column-gap="0.399cm">
@@ -453,6 +938,88 @@
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false">
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+    <form:form form:apply-filter="true" form:method="post" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="../../../../../doku.php" xlink:type="simple">
+     <form:properties>
+      <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+     </form:properties>
+    </form:form>
+   </office:forms>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -484,119 +1051,332 @@
     </text:alphabetical-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="Índice alfabético1_Head">
-      <text:p text:style-name="Index_20_Heading">Índice alfabético</text:p>
+      <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark text:name="curso_de_ubuntu"/>Curso de Ubuntu</text:h>
+      <text:p text:style-name="Text_20_body"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="Emphasis">Definir unos cuantos ejercicios para cada nivel.</text:span></text:span> Vamos a basar el taller en ejercicios prácticos, con unas dosis suficientes de teoría útil. </text:p>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="iniciacion_guion"/>Iniciación (guión)</text:h>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="introduccion"/>Introducción</text:h>
+      <text:p text:style-name="Preformatted_20_Text">Bienvenidos a reciclanet</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Esperamos que aprendais y os lo paseis bien</text:p>
+      <text:p text:style-name="Preformatted_20_Text">El objetivo es que podais hacer lo mismo que en Windos, pero con Software Libre</text:p>
+      <text:p text:style-name="Preformatted_20_Text">No es un curso de informática, ni hablamos de ceros y unos</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Es un taller interactivo y práctico donde vosotros sois los protagonistas</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Preguntad, preguntad, malditos!.</text:p>
+      <text:p text:style-name="P5">El Software Libre es de una gran calidad técnica, pero ante todo es una herramienta de transformación social.</text:p>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="control_basico_del_sistema"/>Control básico del sistema</text:h>
+      <text:list xml:id="list2505644729" text:style-name="L5">
+       <text:list-item>
+        <text:p text:style-name="P27"><text:span text:style-name="Strong_20_Emphasis">Escritorio y escritorios virtuales:</text:span> <text:span text:style-name="Source_20_Text">aplicaciones, lugares, sistema.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P27"><text:span text:style-name="Strong_20_Emphasis">Preferencias del usuario:</text:span> personaliza tu equipo para un trabajo más agradable.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P27"><text:span text:style-name="Strong_20_Emphasis">Qué es el Software Libre</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P10"><text:span text:style-name="Strong_20_Emphasis">Caja. Árbol de directorios:</text:span> para saber moverse entre archivos y carpetas.</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Preformatted_20_Text">Árbol de directorios: home, var, boot, tmp, etc, bin, dev, mnt, media, usr, sys, srv, sbin, root, proc, opt, lost&amp;found, lib, init.rd ...</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Hablar de las 4 libertades (0-3) y el contrato social de Debian.</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Licencia Creative Commons.</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Mitos: Microsoft-Windows-Bill Gates</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Influencia movimiento hippie</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Produce dinero local.</text:p>
+      <text:p text:style-name="Preformatted_20_Text">La pastilla roja.</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Reciclanet: ecología (reutilización y reciclaje), educación (Software Libre), solidaridad (compartir).</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Proyectos realizados, kilos recogidos, CPU enviadas, web de Reciclanet, galería de fotos...</text:p>
+      <text:p text:style-name="P5">Linux Standard Base (LSB)</text:p>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="uso_de_internet_y_redes"/>Uso de internet y redes</text:h>
+      <text:list xml:id="list2897504775" text:style-name="L6">
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="Strong_20_Emphasis">Navegar por Internet:</text:span> Firefox: correo web</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="Strong_20_Emphasis">Configuración Red:</text:span> Aprende a configurar tu red por cable y wifi. </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P28"><text:span text:style-name="Strong_20_Emphasis">Correo electrónico:</text:span> GMail, HexChat: enviar correos, chatear, etc.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P11"><text:span text:style-name="Strong_20_Emphasis">Compartir con LanShare:</text:span> para compartir ficheros y directorios.</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Preformatted_20_Text">Firefox: rebelion-reciclanet-meneame-guiaubuntu-barrapunto-kriptopolis-blogs-web2.0- </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Gmail: lalonjareciclanet@gamil.com:softwarelibre-enviar adjuntos-configurar coreo-firma-ver fotos-alertas-calculadora google </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Red: la informacion se envia por paquetes de pequeño tamaño(Kb)a través de cables transoceánicos. conexiones ethernet Propiedades: estática (ip:192.168.2.35+mascara-puerta de enlace o gateway), dinámica</text:p>
+      <text:p text:style-name="Preformatted_20_Text">nombre equipo: cambiar DNS: servidor de nombres de dominio(son públicos) 212.55.8.132(euskaltel)-194.179.1.100(ya.com)</text:p>
+      <text:p text:style-name="Preformatted_20_Text">ping: localhost(127.0.0.1)-propia ip-puerta enlace-www.terra.es-terra.es. Checkear cable y link.</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Red: ubicación (lioso). ssh robot@192.168.2.45 scp robot@192.168.2.45:/home/robot</text:p>
+      <text:p text:style-name="Preformatted_20_Text">ifconfig -a herramientas de red: ping buscar traceroute whois</text:p>
+      <text:p text:style-name="Preformatted_20_Text">ssh: demostración-chat con Xchat freenode (/join #Reciclanet) </text:p>
+      <text:p text:style-name="P5">Azureus tiene Java, consume mucha memoria </text:p>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="configuracion_del_sistema"/>Configuración del sistema</text:h>
+      <text:list xml:id="list3057593818" text:style-name="L7">
+       <text:list-item>
+        <text:p text:style-name="P29"><text:span text:style-name="Strong_20_Emphasis">Añadir y quitar programas:</text:span> añadir cualquier programa con un click.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P29"><text:span text:style-name="Strong_20_Emphasis">Gestor de aplicaciones (boutique de software):</text:span> instala y desinstala programas.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P29"><text:span text:style-name="Strong_20_Emphasis">Gestor de actualizaciones:</text:span> mantén tu equipo actualizado, sin claves, sin antivirus, sin rollos</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P12"><text:span text:style-name="Strong_20_Emphasis">Buscar archivos y carpetas:</text:span> – atajos de teclado, editores de texto (Pluma) </text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Preformatted_20_Text">MAIN </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Contiene solamente los paquetes que cumplen los requisitos de la licencia de Ubuntu, y para los que hay soporte disponible por parte de su equipo. Los paquetes de este componente poseen ayuda técnica garantizada y mejoras de seguridad oportunas. </text:p>
+      <text:p text:style-name="Preformatted_20_Text">RESTRICTED </text:p>
+      <text:p text:style-name="Preformatted_20_Text">El componente restricted contiene el software que está soportado por los desarrolladores de Ubuntu debido a su importancia, pero que no está disponible bajo ningún tipo de licencia libre para incluir en main. </text:p>
+      <text:p text:style-name="Preformatted_20_Text">El nivel de la ayuda es más limitado que para main, puesto que los desarrolladores pueden no tener acceso al código fuente. </text:p>
+      <text:p text:style-name="Preformatted_20_Text">UNIVERSE </text:p>
+      <text:p text:style-name="Preformatted_20_Text">El componente universe contiene una amplia gama del software, que puede o no tener una licencia restrictiva, pero que no recibe apoyo por parte del equipo de Ubuntu. Esto <text:soft-page-break/>permite que los usuarios instalen toda clase de programas en el sistema, pero los guarda en un lugar aparte de los paquetes soportados: main y restricted. </text:p>
+      <text:p text:style-name="Preformatted_20_Text">MULTIVERSE </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Finalmente, se encuentra el componente multiverse, que contiene los paquetes sin soporte debido a que no cumplen los requisitos del Software Libre(las 4 libertades). </text:p>
+      <text:p text:style-name="Preformatted_20_Text">REPOSITORIO: </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Es un conjunto de paquetes Debian organizados en un directorio en árbol especial,el cual también contiene unos pocos ficheros adicionales con los índices e información de los paquetes. </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Conocer los menús de Synaptic Conocer el gestor de actualizaciones </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Añadir el programa K3b y ktouch desde Synaptic (Amule si no lo tienes,también) </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Instalar y configurar impresora Ver procesos: Top Matar un proceso:Kill </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Comandos:Crear carpeta desde consola (mkdir),listar directorios (ls),hacer un ping a google (ping www.gterra.es) y localhost(ping localhost), ver apuntes de consola. </text:p>
+      <text:p text:style-name="P5">Txuleta:para recuperar el entorno gráfico: sudo dpkg-reconfigure xserver-xorg también <text:s text:c="2"/>Ctrl+Alt+Retroceso</text:p>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="oficina_y_multimedia"/>Oficina y multimedia</text:h>
+      <text:list xml:id="list1591210404" text:style-name="L8">
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="Strong_20_Emphasis">Ofimática (LibreOffice):</text:span> Writer, Calc, gestor de archivadores, compresor…</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="Strong_20_Emphasis">Redes compartidas (Transmission):</text:span> para bajarte aplicaciones, música o lo que tú quieras. </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="Strong_20_Emphasis">Sonido (Rythmbox, Totem, grabador de sonido):</text:span> sonido y música al instante.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P30"><text:span text:style-name="Strong_20_Emphasis">Grabación CD/DVD (Brasero-K3b):</text:span> graba cualquier tipo de CD-DVD o programa con el mejor grabador para tu comodidad.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P13"><text:span text:style-name="Strong_20_Emphasis">Vídeo (VLC-Totem):</text:span> vídeos y películas, visor de fotos, gestiona y edita tus fotos.</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Preformatted_20_Text">AUTOMATIX: </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Verificar procesador (intel-amd) sudo cat /proc/cpuinfo</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Verificar version (sistema/acerca de ubuntu) </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Conectarse a la pag de automatix y bajarse para la version correcta </text:p>
+      <text:p text:style-name="Preformatted_20_Text">No instalar ningun otro software ni actualizar equipo mientras se instala </text:p>
+      <text:p text:style-name="Preformatted_20_Text">AMULE: visionar los .part por si son porno, etc </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Xmms: musica mp3-SoundJuicer: musica formato-ogg-VLC: ver video </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Xsane: escanear una imagen y guardarla, ver parametros de escaneo</text:p>
+      <text:p text:style-name="Preformatted_20_Text">EJERCICIOS:</text:p>
+      <text:p text:style-name="P5">Bajarse una cancion de Magnatune</text:p>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="optimizacion_del_sistema"/>Optimización del sistema</text:h>
+      <text:list xml:id="list1347314772" text:style-name="L9">
+       <text:list-item>
+        <text:p text:style-name="P31"><text:span text:style-name="Strong_20_Emphasis">Administración del equipo:</text:span> Toma control de tu equipo.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P31"><text:span text:style-name="Strong_20_Emphasis">Copias de seguridad y rendimiento del sistema:</text:span> Timeshift, Monitor del Sistema, Información del Hardware.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P31"><text:span text:style-name="Strong_20_Emphasis">Otros Programas</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p text:style-name="P31">Kino</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Liferea</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Google Drive</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Google Calendar</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Scribus</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Inkscape</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Gimp</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Empathy</text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p text:style-name="P31">Rhythmbox…</text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P14"><text:span text:style-name="Strong_20_Emphasis">Explora y experimenta cualquier programa</text:span> sin siquiera tener que reiniciar el ordenador.</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Preformatted_20_Text">Administracion del equipo</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Discos-Monitor del Sistema-Herramientas de red-Hora y Fecha-Soporte de Idiomas-Ventana de entrada-</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Optimización Ubuntu: Sistema-Firefox-OpenOffice </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Repaso Nautilus: moverse </text:p>
+      <text:p text:style-name="Preformatted_20_Text">google earth- banner-Google Alerts-Magnatune-</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Copias de Seguridad (Sysbackup)</text:p>
+      <text:p text:style-name="Preformatted_20_Text">Comandos especiales: sudo dpkg-reconfigure xserver-xorg </text:p>
+      <text:p text:style-name="Preformatted_20_Text">sudo /etc/init.d/networking restart</text:p>
+      <text:p text:style-name="P5">(editor de configuración-apps-nautilus-desktop-icono visibles pinchar) (si no tienes el editor de configuración, cargarlo desde el menú alacarte). Ejercicios y Enlaces</text:p>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="intermedio"/>Intermedio</text:h>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="instalacion_de_ubuntu"/>Instalación de Ubuntu</text:h>
+      <text:list xml:id="list660990278" text:style-name="L10">
+       <text:list-item>
+        <text:p text:style-name="P32"><text:span text:style-name="Strong_20_Emphasis">Preparar el medio de instalación:</text:span> un pendrive con Ventoy y la ISO oportuna</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P32"><text:span text:style-name="Strong_20_Emphasis">Configurar BIOS para arrancar desde un pendrive</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P32"><text:span text:style-name="Strong_20_Emphasis">Instalación automática:</text:span> Especialmente para principiantes: Siguiente, siguiente.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P32"><text:span text:style-name="Strong_20_Emphasis">Instalación manual:</text:span> monitor del sistema, particiones, dispositivos, raíz, swap, árbol de directorios…</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P32"><text:span text:style-name="Strong_20_Emphasis">Ergonomía del puesto de trabajo:</text:span> postura, ojos, descanso, etc. La salud es importante. </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P15"><text:soft-page-break/><text:span text:style-name="Strong_20_Emphasis">Instalar periféricos:</text:span> impresora, cámara, webcam, escaner, pendrive… Fácil y sin reiniciar el equipo.</text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Preformatted_20_Text">Tipos de Instalaciones: </text:p>
+      <text:p text:style-name="Preformatted_20_Text">Limpia (Automatica)recomendada principiantes. Utilizar espacio libre contiguo (cuando se tiene espacio libre con windows. Manual (decidimos las particiones a crear). Es recomendable crear una /home, pero no liarse mas.</text:p>
+      <text:p text:style-name="Preformatted_20_Text">sudo fdisk -l (para saber las particiones)</text:p>
+      <text:p text:style-name="Preformatted_20_Text">df -h (para conocer el tamaño de las particiones 6./media y /mnt se usan como puntos de montaje </text:p>
+      <text:p text:style-name="P5">los ejecutables están en /usr/bin y la configuracion de los programas en /etc.</text:p>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="mas"/>Más</text:h>
+      <text:list xml:id="list2004873563" text:style-name="L11">
+       <text:list-item>
+        <text:p text:style-name="P33">Thunderbird</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P33">SSH</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P33">Synaptic</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P33">LibreOffice Impress y Base</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P16">Terminal básica</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="taller_de_reutilizacion_y_reparacion_de_ordenadores"/>Taller de reutilización y reparación de ordenadores</text:h>
+      <text:list xml:id="list3362583390" text:style-name="L12">
+       <text:list-item>
+        <text:p text:style-name="P34"><text:span text:style-name="Strong_20_Emphasis">Objetivo:</text:span> Aprender a montar, desmontar, diagnosticar y configurar ordenadores.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P17"><text:span text:style-name="Strong_20_Emphasis">Duración:</text:span> 2 semanas: 4 dias/3 h. diarias: 12 horas. Máx. 6 alumnos. 1 ordenador/alumno</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3" text:is-list-header="true"><text:bookmark text:name="desmontar_un_equipo_completo"/>Desmontar un equipo completo</text:h>
+      <text:list xml:id="list371755093" text:style-name="L13">
+       <text:list-item>
+        <text:p text:style-name="P35">Componentes y sus funciones al mismo tiempo.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P35">Las 3R: Reducir, Reutilizar, Reciclar</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P35">Ergonomía y seguridad</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P35">Placa Base, periféricos y BIOS</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P18">Configuración básica de la BIOS</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3" text:is-list-header="true"><text:bookmark text:name="montar_un_equipo_completo"/>Montar un equipo completo</text:h>
+      <text:list xml:id="list2456304457" text:style-name="L14">
+       <text:list-item>
+        <text:p text:style-name="P36">Herramientas de particionado </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P36">Instalación del sistema operativo Ubuntu</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P36">Configuración de periféricos</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P36">Uso avanzado del teclado</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P19">Elementos de red y su configuración</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3" text:is-list-header="true"><text:bookmark text:name="diagnostico_de_problemas"/>Diagnóstico de problemas</text:h>
+      <text:list xml:id="list2310585329" text:style-name="L15">
+       <text:list-item>
+        <text:p text:style-name="P37">Fallos más comunes</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P37">Interpretación de errores</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P37">Herramientas de diagnóstico </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P20">Uso avanzado del teclado</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_3" text:outline-level="3" text:is-list-header="true"><text:bookmark text:name="herramientas_de_repacacion"/>Herramientas de repacación</text:h>
+      <text:list xml:id="list1092681295" text:style-name="L16">
+       <text:list-item>
+        <text:p text:style-name="P38">Uso de Software Libre para reparar </text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P38">Uso práctico en resolución de problemas.</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P38">Direcciones web útiles</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P38">Como buscar en Internet</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P21">Repaso general</text:p>
+       </text:list-item>
+      </text:list>
+      <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="enlaces"/>Enlaces</text:h>
+      <text:list xml:id="list514353128" text:style-name="L17">
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://www.bizizbizi.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Asociación de cilistas urbanos</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://www.reciclanet.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.reciclanet.org</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://www.librezale.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Noticias, internet y actualidad</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://www.osalt.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Find open source software alternatives to well-known commercial software</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://rebelion.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Opiniones y noticias rebeldes sobre el Mundo</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://www.guia-ubuntu.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Guía documentada para Ubuntu</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P39"><text:a xlink:type="simple" xlink:href="https://www.sindominio.net/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Herramientas informáticas para activistas</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="https://www.fsf.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Free Software Foundation</text:a></text:p>
+       </text:list-item>
+      </text:list>
+      <text:p text:style-name="Standard"/>
      </text:index-title>
     </text:index-body>
    </text:alphabetical-index>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark text:name="Iniciacion"/>Iniciación a GNU/Linux </text:h>
-   <text:p text:style-name="Text_20_body">Temarios ofrecidos por reciclanet durante la formación:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Strong_20_Emphasis">INSTALACIÓN DE UBUNTU</text:span></text:h>
-   <text:p text:style-name="P8"><text:span text:style-name="T1">Preparar el medio de instalación: un pendrive con Ventoy y la ISO oportuna</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T1">Configurar BIOS para arrancar desde un pendrive</text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T1">Instalación automática</text:span>: Especialmente para principiantes: Siguiente, siguiente.</text:p>
-   <text:p text:style-name="P3">Instalación manual. <text:line-break/>(Monitor del sistema, particiones, dispositivos, raíz, swap, árbol de directorios)</text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T1">Ergonomía del puesto de trabajo</text:span>: (postura, ojos, descanso, etc). Porque la salud es importante. </text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="T1">Instalar periféricos</text:span>: (impresora, cámara, webcam, escaner, pendrive): Fácil y sin reiniciar el equipo.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Strong_20_Emphasis">CONTROL BÁSICO DEL SISTEMA</text:span></text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Escritorio y escritorios virtuales</text:span>. Aplicaciones – Lugares – Sistema.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Preferencias del usuario</text:span>: Personaliza tu equipo para un trabajo más agradable.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Qué es el Software Libre</text:span>– Reciclanet-Enlaces. </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Caja</text:span>– Árbol de directorios: Para saber moverse entre archivos y carpetas.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Strong_20_Emphasis">USO DE INTERNET y RED</text:span></text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Navegar por Internet</text:span> (Firefox)-Correo Web (Gmail y otros): Porque el ordenador es la red.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Configuración Red</text:span>: Aprende a configurar tu red por cable y wifi. </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Correo electrónico (Thunderbird), X-Chat</text:span>: enviar correos, chatear, etc.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Conectar con el servidor</text:span> (SSH): La potencia de Linux en las conexiones de red.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Strong_20_Emphasis">CONFIGURACIÓN DEL SISTEMA</text:span></text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Añadir y quitar programas</text:span>: Añadir cualquier programa con un click.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Gestor de paquetes (Synaptic)</text:span>: Instala y desinstala más de 60.000 programas! </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Gestor de actualizaciones</text:span>: Mantén tu equipo actualizado, sin claves, sin antivirus, sin rollos</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Buscar archivos y carpetas</text:span> – Atajos de teclado-Editores (Pluma) </text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Strong_20_Emphasis">OFICINA + MULTIMEDIA</text:span></text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Ofimática</text:span> (LibreOffice)- (Texto, Hoja de cálculo, Presentaciones, Gestor archivadores-compresor)</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Redes compartidas</text:span> (Transmission-): Para bajarte aplicaciones, música o lo que tú quieras. </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Sonido</text:span> (Rythmbox, Totem) (Grabador de sonido): Sonido y música al instante</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Grabación cds/dvds</text:span> (Brasero-K3B): Graba cualquier tipo de cd-dvd o programa con el mejor grabador para tu comodidad</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Vídeo</text:span> (VLC-Totem): Vídeos y películas, Visor de fotos (gThumb-Shotwell): Gestiona y edita tus fotos.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="Strong_20_Emphasis">OPTIMIZACIÓN DEL SISTEMA </text:span></text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Administración del equipo</text:span>: Toma control de tu equipo.</text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Copias de Seguridad</text:span> (Sbackup-)-Monitor del Sistema-Información Hardware </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Otros Programas</text:span> (Kino, Liferea, GoogleDocs-Calendar, Scribus, Inkscape, Gimp, Terminal, Empathy, Thunderbird, Rhythmbox y otros).</text:p>
-   <text:p text:style-name="Text_20_body">Explora y experimenta cualquier programa sin siquiera tener que reiniciar el ordenador.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Reutilización y Reparación de Ordenadores</text:h>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Objetivo: Aprender a montar, desmontar, diagnosticar y configurar ordenadores</text:span>.</text:p>
-   <text:p text:style-name="Text_20_body">Duración: 2 semanas: 4 dias/3 h. diarias: 12 horas. Máx. 6 alumnos. 1 ordenador/alumno</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="Strong_20_Emphasis">DESMONTAR UN EQUIPO COMPLETO</text:span></text:h>
-   <text:list xml:id="list1073891006" text:style-name="L1">
-    <text:list-item>
-     <text:p text:style-name="P9">Componentes y sus funciones al mismo tiempo.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P9">Las 3R: Reducir, Reutilizar, Reciclar</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P9">Ergonomía y seguridad</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P9">Placa Base, periféricos y BIOS</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P4">Configuración básica de la BIOS</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="Strong_20_Emphasis">MONTAR UN EQUIPO COMPLETO</text:span></text:h>
-   <text:list xml:id="list1727478929" text:style-name="L2">
-    <text:list-item>
-     <text:p text:style-name="P10">Herramientas de particionado </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P10">Instalación del sistema operativo Ubuntu</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P10">Configuración de periféricos</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P10">Uso avanzado del teclado</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P5">Elementos de red y su configuración</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="Strong_20_Emphasis">DIAGNÓSTICO DE PROBLEMAS</text:span></text:h>
-   <text:list xml:id="list3044621011" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P11">Fallos más comunes</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P11">Interpretación de errores</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P11">Herramientas de diagnóstico </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P6">Uso avanzado del teclado</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="Strong_20_Emphasis">HERRAMIENTAS DE REPARACIÓN </text:span></text:h>
-   <text:list xml:id="list3714385942" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P12">Uso de Software Libre para reparar </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P12">Uso práctico en resolución de problemas.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P12">Direcciones web útiles</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P12">Como buscar en Internet</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P7">Repaso general</text:p>
-    </text:list-item>
-   </text:list>
   </office:text>
  </office:body>
 </office:document>
