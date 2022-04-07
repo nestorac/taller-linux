@@ -182,31 +182,87 @@ Licencia Creative Commons.
 \end_layout
 
 \begin_layout Itemize
-Mitos: Microsoft-Windows-Bill Gates
+Mitos
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Microsoft
 \end_layout
 
 \begin_layout Itemize
-Influencia movimiento hippie
+Windows
 \end_layout
 
 \begin_layout Itemize
-Produce dinero local.
+Bill Gates
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Influencia del movimiento hippie
 \end_layout
 
 \begin_layout Itemize
-La pastilla roja.
+Produce dinero local
 \end_layout
 
 \begin_layout Itemize
-Reciclanet: ecología (reutilización y reciclaje), educación (Software Libre),
- solidaridad (compartir).
+La pastilla roja
 \end_layout
 
 \begin_layout Itemize
-Proyectos realizados, kilos recogidos, CPU enviadas, web de Reciclanet,
- galería de fotos...
+Reciclanet
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+Ecología (reutilización y reciclaje)
+\end_layout
+
+\begin_layout Itemize
+Educación (Software Libre)
+\end_layout
+
+\begin_layout Itemize
+Solidaridad (compartir)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Resultados
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Proyectos realizados
+\end_layout
+
+\begin_layout Itemize
+Kilos recogidos
+\end_layout
+
+\begin_layout Itemize
+CPU enviadas
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Web de Reciclanet"
+target "www.reciclanet.org"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Galería de fotos...
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 Linux Standard Base (LSB)
 \end_layout
@@ -268,24 +324,106 @@ LanShare: para compartir ficheros y directorios.
 Guión del profesor
 \end_layout
 
-\begin_layout Description
-Firefox: rebelion-reciclanet-meneame-guiaubuntu-barrapunto-kriptopolis-blogs-web
-2.0- 
+\begin_layout Itemize
+Firefox
 \end_layout
 
-\begin_layout Description
-Gmail: lalonjareciclanet@gamil.com:softwarelibre-enviar adjuntos-configurar
- coreo-firma-ver fotos-alertas-calculadora google 
+\begin_deeper
+\begin_layout Itemize
+Rebelión
 \end_layout
 
-\begin_layout Description
-Red: la informacion se envia por paquetes de pequeño tamaño(Kb)a través
- de cables transoceánicos.
- conexiones ethernet Propiedades: estática (ip:192.168.2.35+mascara-puerta
- de enlace o gateway), dinámica
+\begin_layout Itemize
+Reciclanet
 \end_layout
 
-\begin_layout Description
+\begin_layout Itemize
+Menéame
+\end_layout
+
+\begin_layout Itemize
+Guía Ubuntu
+\end_layout
+
+\begin_layout Itemize
+Kriptópolis
+\end_layout
+
+\begin_layout Itemize
+Blogs
+\end_layout
+
+\begin_layout Itemize
+Web 2.0 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Gmail
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Enviar adjuntos
+\end_layout
+
+\begin_layout Itemize
+Configurar correo
+\end_layout
+
+\begin_layout Itemize
+Firma GPG
+\end_layout
+
+\begin_layout Itemize
+Ver fotos
+\end_layout
+
+\begin_layout Itemize
+Alertas
+\end_layout
+
+\begin_layout Itemize
+Calculadora 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Red
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+La información se envia por paquetes de pequeño tamaño a través de cables
+ transoceánicos.
+\end_layout
+
+\begin_layout Itemize
+Conexiones ethernet
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Propiedades
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Estática: ip 192.168.2.35, máscara, puerta de enlace (
+\shape italic
+gateway
+\shape default
+)...
+\end_layout
+
+\begin_layout Itemize
+Dinámica (DHCP)
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Itemize
 Nombre
 \begin_inset space ~
 \end_inset
@@ -294,40 +432,99 @@ del
 \begin_inset space ~
 \end_inset
 
-equipo: cambiar DNS: servidor de nombres de dominio(son públicos) 212.55.8.132(eusk
-altel)-194.179.1.100(ya.com)
+equipo
 \end_layout
 
-\begin_layout Description
-ping: localhost(127.0.0.1)-propia ip-puerta enlace-www.terra.es-terra.es.
- Checkear cable y link.
+\begin_deeper
+\begin_layout Itemize
+Cambiar DNS: servidor de nombres de dominio: 8.8.8.8 (Google)
 \end_layout
 
-\begin_layout Description
-red: ubicación (lioso).
- ssh robot@192.168.2.45 scp robot@192.168.2.45:/home/robot
+\end_deeper
+\begin_layout Itemize
+ping
 \end_layout
 
-\begin_layout Description
-Herramientas
-\begin_inset space ~
-\end_inset
-
-de
-\begin_inset space ~
-\end_inset
-
-red: ping buscar traceroute whois ifconfig
+\begin_deeper
+\begin_layout Itemize
+localhost (127.0.0.1)
 \end_layout
 
-\begin_layout Description
-ssh: demostración-chat con Xchat freenode (/join #Reciclanet) 
+\begin_layout Itemize
+IP propia
 \end_layout
 
-\begin_layout Description
-Azureus: tiene Java, consume mucha memoria
+\begin_layout Itemize
+Puerta de enlace
 \end_layout
 
+\begin_layout Itemize
+Comprobar cable y enlace.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+red
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ubicación (lioso)
+\end_layout
+
+\begin_layout Itemize
+ssh robot@[ip]
+\end_layout
+
+\begin_layout Itemize
+scp robot@[ip]:~/
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Herramientas de red
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ping
+\end_layout
+
+\begin_layout Itemize
+traceroute
+\end_layout
+
+\begin_layout Itemize
+whois
+\end_layout
+
+\begin_layout Itemize
+ifconfig
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ssh
+\end_layout
+
+\begin_layout Itemize
+Chat con Xchat freenode (/join #reciclanet) 
+\end_layout
+
+\begin_layout Itemize
+Azureus
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Usa Java
+\end_layout
+
+\begin_layout Itemize
+Consume mucha memoria
+\end_layout
+
+\end_deeper
 \begin_layout Section
 Configuración del sistema
 \end_layout
@@ -466,27 +663,36 @@ Es un conjunto de paquetes Debian organizados en un directorio en árbol
  
 \end_layout
 
-\begin_layout Standard
-Conocer los menús de Synaptic Conocer el gestor de actualizaciones 
+\begin_layout Subsection
+Ejercicios prácticos
 \end_layout
 
-\begin_layout Standard
-Añadir el programa K3b y ktouch desde Synaptic (Amule si no lo tienes,también)
- 
+\begin_layout Itemize
+Conocer los menús de Synaptic
 \end_layout
 
-\begin_layout Standard
-Instalar y configurar impresora Ver procesos: Top Matar un proceso:Kill
- 
+\begin_layout Itemize
+Conocer el gestor de actualizaciones 
 \end_layout
 
-\begin_layout Standard
-Comandos:Crear carpeta desde consola (mkdir),listar directorios (ls),hacer
- un ping a google (ping www.gterra.es) y localhost(ping localhost), ver apuntes
- de consola.
- 
+\begin_layout Itemize
+Añadir el programa K3b, ktouch y amule desde Synaptic
 \end_layout
 
+\begin_layout Itemize
+Instalar y configurar impresora
+\end_layout
+
+\begin_layout Itemize
+Procesos: top
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+matar un proceso: kill
+\end_layout
+
+\end_deeper
 \begin_layout Subsection
 Chuleta
 \end_layout
@@ -532,33 +738,37 @@ Vídeo (VLC-Totem): vídeos y películas, visor de fotos, gestiona y edita
 AUTOMATIX
 \end_layout
 
-\begin_layout Itemize
-Verificar procesador (intel-amd) sudo cat /proc/cpuinfo
+\begin_layout Description
+Verificar
+\begin_inset space ~
+\end_inset
+
+procesador (intel-amd) sudo cat /proc/cpuinfo
 \end_layout
 
-\begin_layout Itemize
-Verificar version (sistema/acerca de ubuntu) 
+\begin_layout Description
+Verificar
+\begin_inset space ~
+\end_inset
+
+version (sistema/acerca de ubuntu) 
 \end_layout
 
-\begin_layout Itemize
-Conectarse a la pag de automatix y bajarse para la version correcta 
+\begin_layout Description
+Automatix: conectarse a la web y bajarse para la version correcta (no instalar
+ ningun otro software ni actualizar equipo mientras se instala)
 \end_layout
 
-\begin_layout Itemize
-No instalar ningun otro software ni actualizar equipo mientras se instala
- 
+\begin_layout Description
+amule visionar los .part por si son porno, etc 
 \end_layout
 
-\begin_layout Itemize
-AMULE: visionar los .part por si son porno, etc 
+\begin_layout Description
+xmms musica mp3-SoundJuicer: musica formato-ogg-VLC: ver video 
 \end_layout
 
-\begin_layout Itemize
-Xmms: musica mp3-SoundJuicer: musica formato-ogg-VLC: ver video 
-\end_layout
-
-\begin_layout Itemize
-Xsane: escanear una imagen y guardarla, ver parametros de escaneo
+\begin_layout Description
+xsane escanear una imagen y guardarla, ver parametros de escaneo
 \end_layout
 
 \begin_layout Subsection
