@@ -7,7 +7,7 @@
 \textclass article
 \use_default_options true
 \maintain_unincluded_children false
-\language english
+\language spanish
 \language_package default
 \inputencoding auto
 \fontencoding global
@@ -29,9 +29,10 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
-\papersize default
-\use_geometry false
+\papersize a4paper
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -44,6 +45,7 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -55,13 +57,20 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1.5cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
 \is_math_indent 0
 \math_numbering_side default
-\quotes_style english
+\quotes_style french
 \dynamic_quotes 0
 \papercolumns 1
 \papersides 1
@@ -75,8 +84,668 @@
 
 \begin_body
 
-\begin_layout Standard
+\begin_layout Title
 Ejercicios de iniciación a Ubuntu
+\end_layout
+
+\begin_layout Author
+Reciclanet
+\end_layout
+
+\begin_layout Section
+Control básico del sistema
+\end_layout
+
+\begin_layout Description
+Escritorio
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+escritorios
+\begin_inset space ~
+\end_inset
+
+virtuales: aplicaciones, lugares, sistema.
+\end_layout
+
+\begin_layout Description
+Preferencias
+\begin_inset space ~
+\end_inset
+
+del
+\begin_inset space ~
+\end_inset
+
+usuario: personaliza tu equipo para un trabajo más agradable.
+\end_layout
+
+\begin_layout Description
+Qué
+\begin_inset space ~
+\end_inset
+
+es
+\begin_inset space ~
+\end_inset
+
+el
+\begin_inset space ~
+\end_inset
+
+Software
+\begin_inset space ~
+\end_inset
+
+Libre
+\end_layout
+
+\begin_layout Description
+Caja,
+\begin_inset space ~
+\end_inset
+
+árbol
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+directorios: para saber moverse entre archivos y carpetas.
+\end_layout
+
+\begin_layout Subsection
+Guión del profesor
+\end_layout
+
+\begin_layout Description
+Directorios
+\begin_inset space ~
+\end_inset
+
+principales: home, var, boot, tmp, etc, bin, dev, mnt, media, usr, sys,
+ srv, sbin, root, proc, opt, lost&found, lib, init.rd ...
+\end_layout
+
+\begin_layout Itemize
+Las 4 libertades (0-3) y el contrato social de Debian.
+\end_layout
+
+\begin_layout Itemize
+Licencia Creative Commons.
+\end_layout
+
+\begin_layout Itemize
+Mitos: Microsoft-Windows-Bill Gates
+\end_layout
+
+\begin_layout Itemize
+Influencia movimiento hippie
+\end_layout
+
+\begin_layout Itemize
+Produce dinero local.
+\end_layout
+
+\begin_layout Itemize
+La pastilla roja.
+\end_layout
+
+\begin_layout Itemize
+Reciclanet: ecología (reutilización y reciclaje), educación (Software Libre),
+ solidaridad (compartir).
+\end_layout
+
+\begin_layout Itemize
+Proyectos realizados, kilos recogidos, CPU enviadas, web de Reciclanet,
+ galería de fotos...
+\end_layout
+
+\begin_layout Itemize
+Linux Standard Base (LSB)
+\end_layout
+
+\begin_layout Section
+Uso de internet y redes
+\end_layout
+
+\begin_layout Description
+Navegar
+\begin_inset space ~
+\end_inset
+
+por
+\begin_inset space ~
+\end_inset
+
+internet: Firefox: correo web
+\end_layout
+
+\begin_layout Description
+Configuración
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+la
+\begin_inset space ~
+\end_inset
+
+red: Aprende a configurar tu red por cable y wifi.
+ 
+\end_layout
+
+\begin_layout Description
+Correo
+\begin_inset space ~
+\end_inset
+
+electrónico: GMail, HexChat: enviar correos, chatear, etc.
+\end_layout
+
+\begin_layout Description
+Compartir
+\begin_inset space ~
+\end_inset
+
+con
+\begin_inset space ~
+\end_inset
+
+LanShare: para compartir ficheros y directorios.
+\end_layout
+
+\begin_layout Subsection
+Guión del profesor
+\end_layout
+
+\begin_layout Description
+Firefox: rebelion-reciclanet-meneame-guiaubuntu-barrapunto-kriptopolis-blogs-web
+2.0- 
+\end_layout
+
+\begin_layout Description
+Gmail: lalonjareciclanet@gamil.com:softwarelibre-enviar adjuntos-configurar
+ coreo-firma-ver fotos-alertas-calculadora google 
+\end_layout
+
+\begin_layout Description
+Red: la informacion se envia por paquetes de pequeño tamaño(Kb)a través
+ de cables transoceánicos.
+ conexiones ethernet Propiedades: estática (ip:192.168.2.35+mascara-puerta
+ de enlace o gateway), dinámica
+\end_layout
+
+\begin_layout Description
+Nombre
+\begin_inset space ~
+\end_inset
+
+del
+\begin_inset space ~
+\end_inset
+
+equipo: cambiar DNS: servidor de nombres de dominio(son públicos) 212.55.8.132(eusk
+altel)-194.179.1.100(ya.com)
+\end_layout
+
+\begin_layout Description
+ping: localhost(127.0.0.1)-propia ip-puerta enlace-www.terra.es-terra.es.
+ Checkear cable y link.
+\end_layout
+
+\begin_layout Description
+red: ubicación (lioso).
+ ssh robot@192.168.2.45 scp robot@192.168.2.45:/home/robot
+\end_layout
+
+\begin_layout Description
+Herramientas
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+red: ping buscar traceroute whois ifconfig
+\end_layout
+
+\begin_layout Description
+ssh: demostración-chat con Xchat freenode (/join #Reciclanet) 
+\end_layout
+
+\begin_layout Description
+Azureus: tiene Java, consume mucha memoria
+\end_layout
+
+\begin_layout Section
+Configuración del sistema
+\end_layout
+
+\begin_layout Description
+Añadir
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+quitar
+\begin_inset space ~
+\end_inset
+
+programas: añadir cualquier programa con un click.
+\end_layout
+
+\begin_layout Description
+Gestor
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+aplicaciones
+\begin_inset space ~
+\end_inset
+
+(boutique
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+software): instala y desinstala programas.
+\end_layout
+
+\begin_layout Description
+Gestor
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+actualizaciones: mantén tu equipo actualizado, sin claves, sin antivirus,
+ sin rollos
+\end_layout
+
+\begin_layout Description
+Buscar
+\begin_inset space ~
+\end_inset
+
+archivos
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+carpetas: atajos de teclado, editores de texto (Pluma) 
+\end_layout
+
+\begin_layout Subsection
+MAIN 
+\end_layout
+
+\begin_layout Standard
+Contiene solamente los paquetes que cumplen los requisitos de la licencia
+ de Ubuntu, y para los que hay soporte disponible por parte de su equipo.
+ Los paquetes de este componente poseen ayuda técnica garantizada y mejoras
+ de seguridad oportunas.
+ 
+\end_layout
+
+\begin_layout Subsection
+RESTRICTED 
+\end_layout
+
+\begin_layout Standard
+El componente restricted contiene el software que está soportado por los
+ desarrolladores de Ubuntu debido a su importancia, pero que no está disponible
+ bajo ningún tipo de licencia libre para incluir en main.
+ 
+\end_layout
+
+\begin_layout Standard
+El nivel de la ayuda es más limitado que para main, puesto que los desarrollador
+es pueden no tener acceso al código fuente.
+ 
+\end_layout
+
+\begin_layout Subsection
+UNIVERSE 
+\end_layout
+
+\begin_layout Standard
+El componente universe contiene una amplia gama del software, que puede
+ o no tener una licencia restrictiva, pero que no recibe apoyo por parte
+ del equipo de Ubuntu.
+ Esto permite que los usuarios instalen toda clase de programas en el sistema,
+ pero los guarda en un lugar aparte de los paquetes soportados: main y restricte
+d.
+ 
+\end_layout
+
+\begin_layout Subsection
+MULTIVERSE 
+\end_layout
+
+\begin_layout Standard
+Finalmente, se encuentra el componente multiverse, que contiene los paquetes
+ sin soporte debido a que no cumplen los requisitos del Software Libre (las
+ 4 libertades).
+ 
+\end_layout
+
+\begin_layout Subsection
+REPOSITORIO
+\end_layout
+
+\begin_layout Standard
+Es un conjunto de paquetes Debian organizados en un directorio en árbol
+ especial,el cual también contiene unos pocos ficheros adicionales con los
+ índices e información de los paquetes.
+ 
+\end_layout
+
+\begin_layout Standard
+Conocer los menús de Synaptic Conocer el gestor de actualizaciones 
+\end_layout
+
+\begin_layout Standard
+Añadir el programa K3b y ktouch desde Synaptic (Amule si no lo tienes,también)
+ 
+\end_layout
+
+\begin_layout Standard
+Instalar y configurar impresora Ver procesos: Top Matar un proceso:Kill
+ 
+\end_layout
+
+\begin_layout Standard
+Comandos:Crear carpeta desde consola (mkdir),listar directorios (ls),hacer
+ un ping a google (ping www.gterra.es) y localhost(ping localhost), ver apuntes
+ de consola.
+ 
+\end_layout
+
+\begin_layout Subsection
+Chuleta
+\end_layout
+
+\begin_layout Standard
+Para recuperar el entorno gráfico: sudo dpkg-reconfigure xserver-xorg también
+ Ctrl+Alt+Retroceso
+\end_layout
+
+\begin_layout Section
+Oficina y multimedia
+\end_layout
+
+\begin_layout Description
+Ofimática (LibreOffice): Writer, Calc, gestor de archivadores, compresor…
+\end_layout
+
+\begin_layout Description
+Redes
+\begin_inset space ~
+\end_inset
+
+compartidas (Transmission): para bajarte aplicaciones, música o lo que tú
+ quieras.
+ 
+\end_layout
+
+\begin_layout Description
+Sonido (Rythmbox, Totem, grabador de sonido): sonido y música al instante.
+\end_layout
+
+\begin_layout Description
+Grabación CD/DVD (Brasero-K3b): graba cualquier tipo de CD-DVD o programa
+ con el mejor grabador para tu comodidad.
+\end_layout
+
+\begin_layout Description
+Vídeo (VLC-Totem): vídeos y películas, visor de fotos, gestiona y edita
+ tus fotos.
+\end_layout
+
+\begin_layout Subsection
+AUTOMATIX
+\end_layout
+
+\begin_layout Itemize
+Verificar procesador (intel-amd) sudo cat /proc/cpuinfo
+\end_layout
+
+\begin_layout Itemize
+Verificar version (sistema/acerca de ubuntu) 
+\end_layout
+
+\begin_layout Itemize
+Conectarse a la pag de automatix y bajarse para la version correcta 
+\end_layout
+
+\begin_layout Itemize
+No instalar ningun otro software ni actualizar equipo mientras se instala
+ 
+\end_layout
+
+\begin_layout Itemize
+AMULE: visionar los .part por si son porno, etc 
+\end_layout
+
+\begin_layout Itemize
+Xmms: musica mp3-SoundJuicer: musica formato-ogg-VLC: ver video 
+\end_layout
+
+\begin_layout Itemize
+Xsane: escanear una imagen y guardarla, ver parametros de escaneo
+\end_layout
+
+\begin_layout Subsection
+EJERCICIOS
+\end_layout
+
+\begin_layout Standard
+Bajarse una cancion de Magnatune.
+\end_layout
+
+\begin_layout Section
+Optimización del sistema
+\end_layout
+
+\begin_layout Description
+Administración
+\begin_inset space ~
+\end_inset
+
+del
+\begin_inset space ~
+\end_inset
+
+equipo: Toma control de tu equipo.
+\end_layout
+
+\begin_layout Description
+Copias
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+seguridad
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+rendimiento
+\begin_inset space ~
+\end_inset
+
+del
+\begin_inset space ~
+\end_inset
+
+sistema: Timeshift, Monitor del Sistema, Información del Hardware.
+\end_layout
+
+\begin_layout Description
+Otros
+\begin_inset space ~
+\end_inset
+
+Programas
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Kino
+\end_layout
+
+\begin_layout Itemize
+Liferea
+\end_layout
+
+\begin_layout Itemize
+Google Drive
+\end_layout
+
+\begin_layout Itemize
+Google Calendar
+\end_layout
+
+\begin_layout Itemize
+Scribus
+\end_layout
+
+\begin_layout Itemize
+Inkscape
+\end_layout
+
+\begin_layout Itemize
+Gimp
+\end_layout
+
+\begin_layout Itemize
+Empathy
+\end_layout
+
+\begin_layout Itemize
+Rhythmbox…
+\end_layout
+
+\begin_layout Itemize
+Explora y experimenta cualquier programa sin siquiera tener que reiniciar
+ el ordenador.
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Administracion del equipo
+\end_layout
+
+\begin_layout Itemize
+Discos
+\end_layout
+
+\begin_layout Itemize
+Monitor del Sistema
+\end_layout
+
+\begin_layout Itemize
+Herramientas de red
+\end_layout
+
+\begin_layout Itemize
+Hora y Fecha
+\end_layout
+
+\begin_layout Itemize
+Soporte de Idiomas
+\end_layout
+
+\begin_layout Itemize
+Ventana de entrada
+\end_layout
+
+\begin_layout Standard
+Optimización de Ubuntu:
+\end_layout
+
+\begin_layout Itemize
+Sistema
+\end_layout
+
+\begin_layout Itemize
+Firefox
+\end_layout
+
+\begin_layout Itemize
+LibreOffice
+\end_layout
+
+\begin_layout Standard
+Navegación por los directorios
+\end_layout
+
+\begin_layout Itemize
+Nautilus
+\end_layout
+
+\begin_layout Itemize
+Google Earth
+\end_layout
+
+\begin_layout Itemize
+Banner
+\end_layout
+
+\begin_layout Itemize
+Google Alerts
+\end_layout
+
+\begin_layout Itemize
+Magnatune
+\end_layout
+
+\begin_layout Itemize
+Copias de seguridad (sysbackup, timeshift)
+\end_layout
+
+\begin_layout Itemize
+Comandos especiales: sudo dpkg-reconfigure xserver-xorg 
+\end_layout
+
+\begin_layout Itemize
+sudo /etc/init.d/networking restart
+\end_layout
+
+\begin_layout Itemize
+Editor de configuración
 \end_layout
 
 \end_body
