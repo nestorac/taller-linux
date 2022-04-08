@@ -161,6 +161,52 @@ directorios: para saber moverse entre archivos y carpetas.
 \end_layout
 
 \begin_layout Subsection
+Ejercicios prácticos
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Escritorios virtuales
+\end_layout
+
+\begin_layout Enumerate
+Cambia de escritorio virtual.
+\end_layout
+
+\begin_layout Enumerate
+Mueve una ventana de un escritorio virtual al de al lado.
+\end_layout
+
+\begin_layout Enumerate
+Muévete de un escritorio virtual a otro con el teclado.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Preferencias del usuario
+\end_layout
+
+\begin_layout Enumerate
+Cambia el tema de tu escritorio.
+\end_layout
+
+\begin_layout Enumerate
+Cambia el layout de los menús al tradicional.
+\end_layout
+
+\begin_layout Enumerate
+Cambia el idioma del sistema.
+\end_layout
+
+\begin_layout Enumerate
+Cambia el idioma del teclado.
+\end_layout
+
+\begin_layout Enumerate
+Configura el salvapantallas.
+\end_layout
+
+\begin_layout Subsection
 Guión del profesor
 \end_layout
 
@@ -318,6 +364,85 @@ con
 \end_inset
 
 LanShare: para compartir ficheros y directorios.
+\end_layout
+
+\begin_layout Subsection
+Ejercicios prácticos
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Navegar por internet
+\end_layout
+
+\begin_layout Enumerate
+Abrir el Firefox.
+\end_layout
+
+\begin_layout Enumerate
+Abrir la web de Reciclanet.
+\end_layout
+
+\begin_layout Enumerate
+Abrir varias pestañas cada una con una web diferente.
+\end_layout
+
+\begin_layout Enumerate
+Añadir el icono de Firefox a la barra de herramientas y al escritorio.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Configurar la red
+\end_layout
+
+\begin_layout Enumerate
+Activar y desactivar el Wi-Fi.
+\end_layout
+
+\begin_layout Enumerate
+Activar y desactivar Ethernet.
+\end_layout
+
+\begin_layout Enumerate
+Conectar a una red inalámbrica.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Correo eléctronico
+\end_layout
+
+\begin_layout Enumerate
+Abrir el correo en Firefox.
+\end_layout
+
+\begin_layout Enumerate
+Configurar Thunderbird o Evolution.
+\end_layout
+
+\begin_layout Subsubsection
+Compartir con LanShare
+\end_layout
+
+\begin_layout Enumerate
+Instalar LanShare.
+\end_layout
+
+\begin_layout Enumerate
+Abrir LanShare.
+\end_layout
+
+\begin_layout Enumerate
+Configurar LanShare.
+\end_layout
+
+\begin_layout Enumerate
+Enviar un fichero.
+\end_layout
+
+\begin_layout Enumerate
+Recibir un fichero.
 \end_layout
 
 \begin_layout Subsection
