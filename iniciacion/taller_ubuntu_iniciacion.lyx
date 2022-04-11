@@ -792,32 +792,57 @@ Es un conjunto de paquetes Debian organizados en un directorio en árbol
 Ejercicios prácticos
 \end_layout
 
-\begin_layout Itemize
-Conocer los menús de Synaptic
+\begin_layout Subsubsection
+Ejercicio.
+ Conocer los menús de Synaptic
 \end_layout
 
-\begin_layout Itemize
-Conocer el gestor de actualizaciones 
+\begin_layout Standard
+Navega por las opciones de Synaptic e instala K3b, ktouch y amule.
 \end_layout
 
-\begin_layout Itemize
-Añadir el programa K3b, ktouch y amule desde Synaptic
+\begin_layout Subsubsection
+Ejercicio.
+ Conocer el gestor de actualizaciones
 \end_layout
 
-\begin_layout Itemize
-Instalar y configurar impresora
+\begin_layout Standard
+Actualiza el sistema.
 \end_layout
 
-\begin_layout Itemize
-Procesos: top
+\begin_layout Subsubsection
+Ejercicio.
+ Manejar K3b, ktouch y amule
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-matar un proceso: kill
+\begin_layout Description
+K3b Extrae un CD de datos en una imagen ISO.
+ Extrae un CD de audio en pistas FLAC.
 \end_layout
 
-\end_deeper
+\begin_layout Description
+ktouch Practicar el tecleo con un ejercicio.
+\end_layout
+
+\begin_layout Description
+amule Baja una canción en mp3.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Instalar y configurar impresora
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicio.
+ Manejar procesos con el Monitor del Sistema
+\end_layout
+
+\begin_layout Standard
+Abrir el Monitor del sistema (mate-system-monitor), en Aplicaciones → Herramient
+as del sistema → Monitor del sistema de MATE.
+\end_layout
+
 \begin_layout Subsection
 Chuleta
 \end_layout
@@ -859,10 +884,6 @@ Vídeo (VLC-Totem): vídeos y películas, visor de fotos, gestiona y edita
  tus fotos.
 \end_layout
 
-\begin_layout Subsection
-AUTOMATIX
-\end_layout
-
 \begin_layout Description
 Verificar
 \begin_inset space ~
@@ -880,16 +901,7 @@ version (sistema/acerca de ubuntu)
 \end_layout
 
 \begin_layout Description
-Automatix: conectarse a la web y bajarse para la version correcta (no instalar
- ningun otro software ni actualizar equipo mientras se instala)
-\end_layout
-
-\begin_layout Description
-amule visionar los .part por si son porno, etc 
-\end_layout
-
-\begin_layout Description
-xmms musica mp3-SoundJuicer: musica formato-ogg-VLC: ver video 
+amule visionar los .part por si son porno, etc
 \end_layout
 
 \begin_layout Description
@@ -897,11 +909,81 @@ xsane escanear una imagen y guardarla, ver parametros de escaneo
 \end_layout
 
 \begin_layout Subsection
-EJERCICIOS
+Ejercicios prácticos
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Magnatune
 \end_layout
 
 \begin_layout Standard
-Bajarse una cancion de Magnatune.
+Bajarse una canción.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ LibreOffice
+\end_layout
+
+\begin_layout Enumerate
+Abrir un documento nuevo.
+\end_layout
+
+\begin_layout Enumerate
+Elaborar un documento breve con información útil.
+\end_layout
+
+\begin_layout Enumerate
+Imprimir un documento.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Transmission
+\end_layout
+
+\begin_layout Enumerate
+Descargar una imagen ISO de Ubuntu MATE por torrent.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Sonido
+\end_layout
+
+\begin_layout Enumerate
+Configurar Rhythmbox.
+ Reproducir música.
+\end_layout
+
+\begin_layout Enumerate
+Abrir un vídeo con Totem.
+\end_layout
+
+\begin_layout Enumerate
+Grabar nuestra voz con el Grabador de Sonido.
+\end_layout
+
+\begin_layout Enumerate
+Abrir un vídeo con subtítulos con VLC.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Escáner
+\end_layout
+
+\begin_layout Enumerate
+Abrir xsane.
+\end_layout
+
+\begin_layout Enumerate
+Examinar cada ventana que aparece, su función.
+\end_layout
+
+\begin_layout Enumerate
+Escanear un a4 a color con 200ppi.
 \end_layout
 
 \begin_layout Section
@@ -990,15 +1072,41 @@ Empathy
 \end_layout
 
 \begin_layout Itemize
-Rhythmbox…
-\end_layout
-
-\begin_layout Itemize
 Explora y experimenta cualquier programa sin siquiera tener que reiniciar
  el ordenador.
 \end_layout
 
 \end_deeper
+\begin_layout Subsection
+Ejercicios prácticos
+\end_layout
+
+\begin_layout Enumerate
+Configurar el Timeshift para hacer copias de seguridad automáticas.
+\end_layout
+
+\begin_layout Enumerate
+Mirar cuánta RAM consume el sistema con el Monitor del Sistema.
+\end_layout
+
+\begin_layout Enumerate
+Lista todos los dispositivos conocidos de hardware.
+\end_layout
+
+\begin_layout Enumerate
+[...] 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Incluir ejercicios sobre kino, liferea, Google Drive, Calendar, Scribus...
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Administracion del equipo
 \end_layout
@@ -1048,7 +1156,7 @@ Navegación por los directorios
 \end_layout
 
 \begin_layout Itemize
-Nautilus
+Caja
 \end_layout
 
 \begin_layout Itemize
@@ -1081,6 +1189,65 @@ sudo /etc/init.d/networking restart
 
 \begin_layout Itemize
 Editor de configuración
+\end_layout
+
+\begin_layout Subsection
+Ejercicios prácticos
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Idiomas
+\end_layout
+
+\begin_layout Enumerate
+Instalar euskera.
+\end_layout
+
+\begin_layout Enumerate
+Cambiar el sistema a euskera.
+\end_layout
+
+\begin_layout Enumerate
+Volver al castellano.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Hora y fecha
+\end_layout
+
+\begin_layout Enumerate
+Ajustar la hora si es necesario.
+\end_layout
+
+\begin_layout Enumerate
+Cambiar la fecha, adelantarla.
+\end_layout
+
+\begin_layout Enumerate
+Volver a la fecha correcta.
+\end_layout
+
+\begin_layout Enumerate
+Verificar la zona horaria.
+\end_layout
+
+\begin_layout Subsubsection
+Ejercicios.
+ Edición de imágenes
+\end_layout
+
+\begin_layout Enumerate
+Abrir Gimp.
+\end_layout
+
+\begin_layout Enumerate
+Editar una foto de internet, pixelándola.
+\end_layout
+
+\begin_layout Enumerate
+Exportar una foto en formato jpg.
 \end_layout
 
 \end_body
