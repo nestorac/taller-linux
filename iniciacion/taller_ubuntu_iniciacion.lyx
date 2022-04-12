@@ -141,7 +141,7 @@ Software
 \begin_inset space ~
 \end_inset
 
-Libre
+Libre: Entregar el manifiesto Queremos Software Libre y comentar.
 \end_layout
 
 \begin_layout Description
@@ -157,7 +157,7 @@ de
 \begin_inset space ~
 \end_inset
 
-directorios: para saber moverse entre archivos y carpetas.
+directorios: para saber moverse entre archivos y carpetas (F3 en Caja).
 \end_layout
 
 \begin_layout Subsection
@@ -165,8 +165,7 @@ Ejercicios prácticos
 \end_layout
 
 \begin_layout Subsubsection
-Ejercicio.
- Escritorios virtuales
+Escritorios virtuales
 \end_layout
 
 \begin_layout Enumerate
@@ -182,8 +181,7 @@ Muévete de un escritorio virtual a otro con el teclado.
 \end_layout
 
 \begin_layout Subsubsection
-Ejercicio.
- Preferencias del usuario
+Preferencias del usuario
 \end_layout
 
 \begin_layout Enumerate
@@ -199,7 +197,17 @@ Cambia el idioma del sistema.
 \end_layout
 
 \begin_layout Enumerate
-Cambia el idioma del teclado.
+Cambia el idioma del teclado
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Revisar
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Enumerate
@@ -210,21 +218,80 @@ Configura el salvapantallas.
 Guión del profesor
 \end_layout
 
+\begin_layout Itemize
+Las 4 libertades del Software Libre (0-3).
+\end_layout
+
+\begin_deeper
 \begin_layout Description
-Directorios
+Libertad
 \begin_inset space ~
 \end_inset
 
-principales: home, var, boot, tmp, etc, bin, dev, mnt, media, usr, sys,
- srv, sbin, root, proc, opt, lost&found, lib, init.rd ...
+0 Poder usar el programa con cualquier propósito.
+\end_layout
+
+\begin_layout Description
+Libertad
+\begin_inset space ~
+\end_inset
+
+1 Poder estudiar cómo funciona el programa y poder modificarlo.
+\end_layout
+
+\begin_layout Description
+Libertad
+\begin_inset space ~
+\end_inset
+
+2 Poder distribuir copias del programa.
+\end_layout
+
+\begin_layout Description
+Libertad
+\begin_inset space ~
+\end_inset
+
+3 Poder mejorar el programa y poder compartir dichas mejoras para beneficio
+ de todos.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Usos sociales de la tecnología"
+target "https://lapastillaroja.net/"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Las 4 libertades (0-3) y el contrato social de Debian.
+\begin_inset CommandInset href
+LatexCommand href
+name "La oportunidad del Software Libre"
+target "https://digital.csic.es/handle/10261/38114"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Licencia Creative Commons.
+Licencia 
+\begin_inset CommandInset href
+LatexCommand href
+name "Creative Commons"
+target "https://creativecommons.org/"
+literal "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Itemize
